@@ -117,4 +117,3 @@ function createMap(earthquakes) {
   }).addTo(myMap);
 
 };
-
